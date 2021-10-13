@@ -18,6 +18,7 @@ class AlgoritmoDJ{
         // . . .
         // . . .
         // . . .
+        System.out.print("Hola");
     } 
     public static void main(String[] args) {
         AlgoritmoDJ algoritmoDJ = new AlgoritmoDJ();
